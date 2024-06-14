@@ -111,3 +111,6 @@ def results_print(fasta_file):
 # Testing the script
 
 [results_print(fasta_file) for fasta_file in ["hw_file1.fasta", "hw_file2.fasta", "hw_file3.fasta"]]
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP61Ns7xN7H6y86JEaHD0hbLNBg0v+xV2mP5GryJr5Sb admd@omk-latitude-3490
+
